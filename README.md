@@ -1,5 +1,3 @@
-
-
 <!--
 
 ## Hi there 👋
@@ -17,38 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-# Hi, I'm [Your Name]! 👋
-
 [![Website](https://img.shields.io/badge/Portfolio-YourPortfolioURL-red)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-1DA1F2)](https://twitter.com/your-handle)
-
-**I'm a [your role, e.g., Full-Stack Developer] passionate about [your interests, e.g., open-source, AI, or web apps].**
-
----
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech | 
-|---------|-------------|------|
-| [Repo 1](https://github.com/your-username/repo1) | A brief description of your project. | React, Node.js, MongoDB |
-| [Repo 2](https://github.com/your-username/repo2) | Another cool project. | Python, Flask, TensorFlow |
-
----
-
-### 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirgw&layout=compact)
 
 ---
 
@@ -58,35 +27,9 @@ Here are some ideas to get you started:
 - 🐦 [Twitter](https://twitter.com/your-handle)
 - 📧 Email: your.email@example.com
 
-
--->
-
-
-
-
-
-<!--
-[![Website](https://img.shields.io/badge/Portfolio-YourPortfolioURL-red)](https://your-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kirillg--kirgw-blue)](https://linkedin.com/in/kirillg)  
-[![Twitter](https://img.shields.io/badge/Twitter-@kirgw-1DA1F2)](https://twitter.com/kirgw)  
-
-
-
-### 📧 Contact Me
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-📱 Twitter: [@kirgw](https://twitter.com/kirgw)  
-usiness LinkedIn: [LinkedIn Profile](https://linkedin.com/in/kirillg)  
-
---- 
-
 Outside of development, I run a technical blog where I share insights, best practices, and problem-solving techniques in web development. Passionate about building, optimizing, and crafting solutions that make an impact.
 
----
-
-### 🚀
-
 -->
-
 
 
 # Hi, I'm Kirill! 👋  
@@ -115,11 +58,11 @@ As a WordPress expert, I specialize in developing custom themes (Gutenberg, ACF)
 ---
 
 ### 🌟 Featured Projects
-**1. [Project 1 Name](https://github.com/kirgw/Project-1)**  
-A description of Project 1
+**1. [UserDisplay](https://github.com/kirgw/kw-userdisplay)**  
+WordPress plugin that shows sortable userlist | WordPress, PHP, HTML, CSS, JavaScript, jQuery
 
-**2. [Project 2 Name](https://github.com/kirgw/Project-2)**  
-A description of Project 2
+**2. [Project 2 Name](#)**  
+(coming soon)
 
 ---
 
