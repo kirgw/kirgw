@@ -1,11 +1,4 @@
 <!--
-
-## Hi there 👋
-
-**kirgw/kirgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,23 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Website](https://img.shields.io/badge/Portfolio-YourPortfolioURL-red)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-1DA1F2)](https://twitter.com/your-handle)
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
-
-Outside of development, I run a technical blog where I share insights, best practices, and problem-solving techniques in web development. Passionate about building, optimizing, and crafting solutions that make an impact.
-
 -->
-
 
 # Hi, I'm Kirill! 👋  
 
@@ -71,3 +48,12 @@ WordPress plugin that shows sortable userlist | WordPress, PHP, HTML, CSS, JavaS
 
 ---
 
+<!--
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🐦 [Twitter](https://twitter.com/your-handle)
+- 📧 Email: your.email@example.com
+[![Website](https://img.shields.io/badge/Portfolio-YourPortfolioURL-red)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-1DA1F2)](https://twitter.com/your-handle)
+-->
