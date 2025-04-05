@@ -35,8 +35,8 @@ As a WordPress expert, I specialize in developing custom themes (Gutenberg, ACF)
 ---
 
 ### 🌟 Featured Projects
-**1. [UserDisplay](https://github.com/kirgw/kw-userdisplay)**  
-WordPress plugin that shows sortable userlist | WordPress, PHP, HTML, CSS, JavaScript, jQuery
+**1. [User Data Display](https://github.com/kirgw/kgwp-user-data-display)**  
+WordPress plugin allows you to display WordPress user data in various formats using shortcodes | WordPress, PHP, HTML, CSS, JavaScript, jQuery
 
 **2. [Project 2 Name](#)**  
 (coming soon)
