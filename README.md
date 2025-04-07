@@ -35,11 +35,11 @@ As a WordPress expert, I specialize in developing custom themes (Gutenberg, ACF)
 ---
 
 ### 🌟 Featured Projects
-**1. [User Data Display](https://github.com/kirgw/kgwp-user-data-display)**  
-WordPress plugin allows you to display WordPress user data in various formats using shortcodes | WordPress, PHP, HTML, CSS, JavaScript, jQuery
+**1. [KG WP User Data Display](https://github.com/kirgw/kgwp-user-data-display)**  
+WordPress plugin allows you to display WordPress user data in various formats using shortcodes. Various formats: cards, list, table. All translatable, editable and can override those inside a theme. | WordPress, PHP, HTML, CSS, JavaScript, jQuery
 
-**2. [Project 2 Name](#)**  
-(coming soon)
+**2. [KG WP User Generation & Import](https://github.com/kirgw/kgwp-user-gen-imp)**  
+Easily generate and/or import user data on your WordPress site (testing or migration). Started at first as a "sidekick" class separated from KG WP User Data Display plugin, but then developed further. | WordPress, PHP, HTML, CSS, JavaScript, jQuery
 
 ---
 
